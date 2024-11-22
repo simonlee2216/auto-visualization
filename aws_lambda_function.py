@@ -4,7 +4,7 @@ from io import StringIO
 import random
 import datetime
 
-BUCKET_NAME = 'your-bucket-name'
+BUCKET_NAME = 'bucket-name'
 FILE_KEY = 'data.csv'
 
 def lambda_handler(event, context):
