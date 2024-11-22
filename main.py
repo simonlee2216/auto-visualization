@@ -4,7 +4,7 @@ import pandas as pd
 import time
 
 # AWS S3 Configuration
-BUCKET_NAME = 'your-bucket-name'
+BUCKET_NAME = 'bucket-name'
 FILE_KEY = 'data.csv'
 
 def fetch_data_from_s3():
