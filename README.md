@@ -14,4 +14,7 @@ This project uses Matplotlib for real-time data visualization and AWS Lambda + S
    cd auto-updating-visualization
 
 2. Install dependencies
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+
+3. Update the S3 bucket name in main.py and aws_lambda_function.py.
