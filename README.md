@@ -10,8 +10,8 @@ This project uses Matplotlib for real-time data visualization and AWS Lambda + S
 # Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/auto-updating-visualization.git
-   cd auto-updating-visualization
+   git clone https://github.com/simonlee2216/auto-visualization.git
+   cd auto-visualization
 
 2. Install dependencies
    ```bash
